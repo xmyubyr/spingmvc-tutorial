@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ExceptionCommands>
+    <Command key="1015">
+        <Button cmdName="gameInProgressReload">
+            <ParamName>nscode</ParamName>
+            <ParamName>action</ParamName>
+            <ParamName>countrycode</ParamName>
+            <ParamName>currencycode</ParamName>
+            <ParamName>uniqueid</ParamName>
+            <ParamName>minbet</ParamName>
+            <ParamName>securetoken</ParamName>
+            <ParamName>softwareid</ParamName>
+            <ParamName>language</ParamName>
+            <ParamName>skincode</ParamName>
+            <ParamName>terminalid</ParamName>
+            <ParamName>denomamount</ParamName>
+            <ParamName>channel</ParamName>
+            <ParamName>presenttype</ParamName>
+            <ParamName>playMode</ParamName>
+            <ParamName>freespin_tokenID</ParamName>
+            <ParamName>freespin_bet</ParamName>
+            <ParamName>freespin_lines</ParamName>
+            <ParamName>freespin_num</ParamName>
+            <ParamName>technology</ParamName>
+            <ParamName>landing</ParamName>
+            <ParamName>wagerType</ParamName>
+            <ParamName>tournamentId</ParamName>
+        </Button>
+    </Command>
+</ExceptionCommands>
