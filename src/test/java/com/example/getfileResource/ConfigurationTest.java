@@ -22,7 +22,7 @@ public class ConfigurationTest {
     public XmlConfiguration xmlConfiguration;
     @Test
     void contextLoads(){
-        System.out.println(personConfiguration.getGroupManager());
+       /* System.out.println(personConfiguration.getGroupManager());
         ExceptionCommandsXml exceptionCommandsXmls =xmlConfiguration.convertXmlToObj(xmlConfiguration.getPath());
         try {
             String exception =ExceptionCommandsXmlTranslator.INSTANCE.convertObjToString(exceptionCommandsXmls);
@@ -33,8 +33,13 @@ public class ConfigurationTest {
             throw new RuntimeException(e);
         } catch (XMLStreamException e) {
             throw new RuntimeException(e);
-        }
-
+        }*/
+       Map<Integer, ExceptionCommandsXml.Command> cmds=xmlConfiguration.parseMap();
+        xmlConfiguration.initbutton();
+        List<ExceptionXml.Buttons.Button> btns=xmlConfiguration.getButtonsCommands(1015,xmlConfiguration.getLocale("en"));
+       // List<String> lists = xmlConfiguration.getMessageButtons(1610,null);
+       // List<ExceptionCommandsXml.Command.Button> bts = xmlConfiguration.getButtonsCommands(1610);
+        System.out.println(btns);
     }
 
 }

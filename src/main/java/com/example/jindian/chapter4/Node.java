@@ -5,5 +5,6 @@ import org.springframework.web.util.UriComponentsBuilder;
 public class Node {
     public String name;
     public Node[] children;
+    public NodePath.State state;
 
 }

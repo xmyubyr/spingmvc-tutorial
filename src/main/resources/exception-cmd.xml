@@ -27,4 +27,28 @@
             <ParamName>tournamentId</ParamName>
         </Button>
     </Command>
+    <Command key="1606">
+        <Button cmdName="reloadGame"/>
+    </Command>
+    <Command key="1610">
+        <Button cmdName="closeGame"/>
+        <Button cmdName=""></Button>
+        <Button cmdName="reloadGame"/>
+        <Button cmdName="viewAccountHistory">
+            <ParamName>url</ParamName>
+            <ParamName>closeGame</ParamName>
+        </Button>
+    </Command>
+    <Command key="1621">
+        <Button cmdName=""></Button>
+    </Command>
+    <Command key="1622">
+        <Button cmdName=""></Button>
+    </Command>
+    <Command key="1623">
+        <Button cmdName=""></Button>
+    </Command>
+    <Command key="1624">
+        <Button cmdName=""></Button>
+    </Command>
 </ExceptionCommands>

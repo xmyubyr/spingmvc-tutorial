@@ -1,0 +1,275 @@
+<ExceptionMessages>
+    <Exception key="4000" supportinfo="false">
+        <Message>A system error has occurred.</Message>
+        <Buttons>
+            <Button>OK</Button>
+        </Buttons>
+    </Exception>
+    <Exception key="4001" supportinfo="false">
+        <Message>A system error has occurred.</Message>
+        <Buttons>
+            <Button>OK</Button>
+        </Buttons>
+    </Exception>
+    <Exception key="4002" supportinfo="false">
+        <Message>A system error has occurred.</Message>
+        <Buttons>
+            <Button>OK</Button>
+        </Buttons>
+    </Exception>
+    <Exception key="4003" supportinfo="false">
+        <Message>A system error has occurred.</Message>
+        <Buttons>
+            <Button>OK</Button>
+        </Buttons>
+    </Exception>
+    <Exception key="4004" supportinfo="false">
+        <Message>A system error has occurred.</Message>
+        <Buttons>
+            <Button>OK</Button>
+        </Buttons>
+    </Exception>
+    <Exception key="4005" supportinfo="false">
+        <Message>A system error has occurred.</Message>
+        <Buttons>
+            <Button>OK</Button>
+        </Buttons>
+    </Exception>
+    <Exception key="4006" supportinfo="false">
+        <Message>A system error has occurred.</Message>
+        <Buttons>
+            <Button>OK</Button>
+        </Buttons>
+    </Exception>
+    <Exception key="4007" supportinfo="false">
+        <Message>A system error has occurred.</Message>
+        <Buttons>
+            <Button>OK</Button>
+        </Buttons>
+    </Exception>
+    <Exception key="4008" supportinfo="false">
+        <Message>A system error has occurred.</Message>
+        <Buttons>
+            <Button>OK</Button>
+        </Buttons>
+    </Exception>
+    <Exception key="4009" supportinfo="false">
+        <Message>A system error has occurred.</Message>
+        <Buttons>
+            <Button>OK</Button>
+        </Buttons>
+    </Exception>
+    <Exception key="4014" supportinfo="false">
+        <Message>Expired session. Dismiss this message to re-launch the game.</Message>
+        <Buttons>
+            <Button>OK</Button>
+        </Buttons>
+    </Exception>
+    <Exception key="4020" supportinfo="false">
+        <Message>A system error has occurred: gsr.error.system.unfinishedError.</Message>
+        <Buttons>
+            <Button>OK</Button>
+        </Buttons>
+    </Exception>
+    <Exception key="4021" supportinfo="false">
+        <Message>A system error has occurred: gsr.error.system.pfsExpiredError.</Message>
+        <Buttons>
+            <Button>OK</Button>
+        </Buttons>
+    </Exception>
+    <Exception key="4022" supportinfo="false">
+        <Message>A system error has occurred: gsr.error.system.pfsWalletInsufficientFundsError.</Message>
+        <Buttons>
+            <Button>OK</Button>
+        </Buttons>
+    </Exception>
+    <Exception key="4023" supportinfo="false">
+        <Message>A system error has occurred: gsr.error.system.pfsWalletClosedError.</Message>
+        <Buttons>
+            <Button>OK</Button>
+        </Buttons>
+    </Exception>
+    <Exception key="4024" supportinfo="false">
+        <Message>A system error has occurred: gsr.error.system.void.pas.txn.on.complete.txn.</Message>
+        <Buttons>
+            <Button>OK</Button>
+        </Buttons>
+    </Exception>
+    <Exception key="4025" supportinfo="false">
+        <Message>A system error has occurred: gsr.error.system.tsError.</Message>
+        <Buttons>
+            <Button>OK</Button>
+        </Buttons>
+    </Exception>
+    <Exception key="4026" supportinfo="false">
+        <Message>A system error has occurred: gsr.error.system.tournament.not.available.for.play.</Message>
+        <Buttons>
+            <Button>OK</Button>
+        </Buttons>
+    </Exception>
+    <Exception key="4027" supportinfo="false">
+        <Message>A system error has occurred: gsr.error.system.clientCacheServiceError.</Message>
+        <Buttons>
+            <Button>OK</Button>
+        </Buttons>
+    </Exception>
+    <Exception key="4028" supportinfo="false">
+        <Message>A system error has occurred: gsr.error.system.portal.createPendSessionError.</Message>
+        <Buttons>
+            <Button>OK</Button>
+        </Buttons>
+    </Exception>
+    <Exception key="4029" supportinfo="false">
+        <Message>A system error has occurred: gsr.error.system.portal.sessionNotFoundError.</Message>
+        <Buttons>
+            <Button>OK</Button>
+        </Buttons>
+    </Exception>
+    <Exception key="4030" supportinfo="false">
+        <Message>A system error has occurred: gsr.error.system.portal.sessionExpiredError.</Message>
+        <Buttons>
+            <Button>OK</Button>
+        </Buttons>
+    </Exception>
+    <Exception key="4031" supportinfo="false">
+        <Message>A system error has occurred: gsr.error.system.portal.inputError.</Message>
+        <Buttons>
+            <Button>OK</Button>
+        </Buttons>
+    </Exception>
+    <Exception key="4032" supportinfo="false">
+        <Message>A system error has occurred: gsr.error.system.portal.jurisdiction.verification.failed.</Message>
+        <Buttons>
+            <Button>OK</Button>
+        </Buttons>
+    </Exception>
+    <Exception key="4033" supportinfo="false">
+        <Message>A system error has occurred: gsr.error.system.portal.authError.</Message>
+        <Buttons>
+            <Button>OK</Button>
+        </Buttons>
+    </Exception>
+    <Exception key="4034" supportinfo="false">
+        <Message>A system error has occurred: gsr.error.system.portal.buyInError.</Message>
+        <Buttons>
+            <Button>OK</Button>
+        </Buttons>
+    </Exception>
+    <Exception key="4035" supportinfo="false">
+        <Message>A system error has occurred: gsr.error.system.pasInvalidateReferenceId.</Message>
+        <Buttons>
+            <Button>OK</Button>
+        </Buttons>
+    </Exception>
+    <Exception key="4036" supportinfo="false">
+        <Message>A system error has occurred: gsr.error.system.tournament.not.found.</Message>
+        <Buttons>
+            <Button>OK</Button>
+        </Buttons>
+    </Exception>
+    <Exception key="4037" supportinfo="false">
+        <Message>A system error has occurred: gsr.error.system.tournament.not.complete.in.other.channel.</Message>
+        <Buttons>
+            <Button>OK</Button>
+        </Buttons>
+    </Exception>
+    <Exception key="4038" supportinfo="false">
+        <Message>A system error has occurred: gsr.error.system.tournament.no.remaining.spin.</Message>
+        <Buttons>
+            <Button>OK</Button>
+        </Buttons>
+    </Exception>
+    <Exception key="4039" supportinfo="false">
+        <Message>A system error has occurred: gsr.error.system.tournament.not.available.channel.</Message>
+        <Buttons>
+            <Button>OK</Button>
+        </Buttons>
+    </Exception>
+    <Exception key="4040" supportinfo="false">
+        <Message>A system error has occurred: gsr.error.system.portal.buyInCancelError.</Message>
+        <Buttons>
+            <Button>OK</Button>
+        </Buttons>
+    </Exception>
+    <Exception key="4054" supportinfo="false">
+        <Message>Tournament active session exceed, please try later.</Message>
+        <Buttons>
+            <Button>OK</Button>
+        </Buttons>
+    </Exception>
+    <Exception key="4056" supportinfo="false">
+        <Message>A system error has occurred: gsr.error.system.tournament.insufficient.betAmount.</Message>
+        <Buttons>
+            <Button>OK</Button>
+        </Buttons>
+    </Exception>
+    <Exception key="4061" supportinfo="false">
+        <Message>A system error has occurred: gsr.error.system.competition.registrationCurrencyExisting.</Message>
+        <Buttons>
+            <Button>OK</Button>
+        </Buttons>
+    </Exception>
+    <Exception key="4063" supportinfo="false">
+        <Message>A system error has occurred: gsr.error.system.gamenotfound.</Message>
+        <Buttons>
+            <Button>OK</Button>
+        </Buttons>
+    </Exception>
+    <Exception key="4065" supportinfo="false">
+        <Message>A system error has occurred: gsr.error.system.pending.txn.recon.fail.</Message>
+        <Buttons>
+            <Button>OK</Button>
+        </Buttons>
+    </Exception>
+    <Exception key="4066" supportinfo="false">
+        <Message>A system error has occurred: gsr.error.system.txn.in.bet.pending.</Message>
+        <Buttons>
+            <Button>OK</Button>
+        </Buttons>
+    </Exception>
+    <Exception key="1015" supportinfo="false">
+        <Message>A game is already in progress: gsr.error.system.game.in.gip.</Message>
+        <Buttons>
+            <Button>OK</Button>
+        </Buttons>
+    </Exception>
+    <Exception key="1606" supportinfo="false">
+        <Message>PPL</Message>
+        <Buttons>
+            <Button>OK</Button>
+        </Buttons>
+    </Exception>
+    <Exception key="1610" supportinfo="false">
+        <Message>OK</Message>
+        <Buttons>
+            <Button>Close</Button>
+            <Button>Continue</Button>
+            <Button>Reload</Button>
+            <Button>View Account History</Button>
+        </Buttons>
+    </Exception>
+    <Exception key="1621" supportinfo="false">
+        <Message>OK</Message>
+        <Buttons>
+            <Button>Continue</Button>
+        </Buttons>
+    </Exception>
+    <Exception key="1622" supportinfo="false">
+        <Message>OK</Message>
+        <Buttons>
+            <Button>Continue</Button>
+        </Buttons>
+    </Exception>
+    <Exception key="1623" supportinfo="false">
+        <Message>OK</Message>
+        <Buttons>
+            <Button>Continue</Button>
+        </Buttons>
+    </Exception>
+    <Exception key="1624" supportinfo="false">
+        <Message>OK</Message>
+        <Buttons>
+            <Button>Continue</Button>
+        </Buttons>
+    </Exception>
+</ExceptionMessages>

@@ -1,0 +1,596 @@
+[
+    {
+        "id": "4000",
+        "supportInfo": false,
+        "buttons": {
+            "button": [
+                {
+                    "text": "OK",
+                    "cmd": {
+                        "name": "closeGame"
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": "4001",
+        "supportInfo": false,
+        "buttons": {
+            "button": [
+                {
+                    "text": "OK",
+                    "cmd": {
+                        "name": "closeGame"
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": "4002",
+        "supportInfo": false,
+        "buttons": {
+            "button": [
+                {
+                    "text": "OK",
+                    "cmd": {
+                        "name": "closeGame"
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": "4003",
+        "supportInfo": false,
+        "buttons": {
+            "button": [
+                {
+                    "text": "OK",
+                    "cmd": {
+                        "name": "closeGame"
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": "4004",
+        "supportInfo": false,
+        "buttons": {
+            "button": [
+                {
+                    "text": "OK",
+                    "cmd": {
+                        "name": "closeGame"
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": "4005",
+        "supportInfo": false,
+        "buttons": {
+            "button": [
+                {
+                    "text": "OK",
+                    "cmd": {
+                        "name": "closeGame"
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": "4006",
+        "supportInfo": false,
+        "buttons": {
+            "button": [
+                {
+                    "text": "OK",
+                    "cmd": {
+                        "name": "closeGame"
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": "4007",
+        "supportInfo": false,
+        "buttons": {
+            "button": [
+                {
+                    "text": "OK",
+                    "cmd": {
+                        "name": "closeGame"
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": "4008",
+        "supportInfo": false,
+        "buttons": {
+            "button": [
+                {
+                    "text": "OK",
+                    "cmd": {
+                        "name": "closeGame"
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": "4009",
+        "supportInfo": false,
+        "buttons": {
+            "button": [
+                {
+                    "text": "OK",
+                    "cmd": {
+                        "name": "closeGame"
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": "4014",
+        "supportInfo": false,
+        "buttons": {
+            "button": [
+                {
+                    "text": "OK",
+                    "cmd": {
+                        "name": "reloadGame"
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": "4020",
+        "supportInfo": false,
+        "buttons": {
+            "button": [
+                {
+                    "text": "OK",
+                    "cmd": {
+                        "name": ""
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": "4021",
+        "supportInfo": false,
+        "buttons": {
+            "button": [
+                {
+                    "text": "OK",
+                    "cmd": {
+                        "name": ""
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": "4022",
+        "supportInfo": false,
+        "buttons": {
+            "button": [
+                {
+                    "text": "OK",
+                    "cmd": {
+                        "name": ""
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": "4023",
+        "supportInfo": false,
+        "buttons": {
+            "button": [
+                {
+                    "text": "OK",
+                    "cmd": {
+                        "name": ""
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": "4024",
+        "supportInfo": false,
+        "buttons": {
+            "button": [
+                {
+                    "text": "OK",
+                    "cmd": {
+                        "name": ""
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": "4025",
+        "supportInfo": false,
+        "buttons": {
+            "button": [
+                {
+                    "text": "OK",
+                    "cmd": {
+                        "name": ""
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": "4026",
+        "supportInfo": false,
+        "buttons": {
+            "button": [
+                {
+                    "text": "OK",
+                    "cmd": {
+                        "name": ""
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": "4027",
+        "supportInfo": false,
+        "buttons": {
+            "button": [
+                {
+                    "text": "OK",
+                    "cmd": {
+                        "name": ""
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": "4028",
+        "supportInfo": false,
+        "buttons": {
+            "button": [
+                {
+                    "text": "OK",
+                    "cmd": {
+                        "name": ""
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": "4029",
+        "supportInfo": false,
+        "buttons": {
+            "button": [
+                {
+                    "text": "OK",
+                    "cmd": {
+                        "name": ""
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": "4030",
+        "supportInfo": false,
+        "buttons": {
+            "button": [
+                {
+                    "text": "OK",
+                    "cmd": {
+                        "name": ""
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": "4031",
+        "supportInfo": false,
+        "buttons": {
+            "button": [
+                {
+                    "text": "OK",
+                    "cmd": {
+                        "name": ""
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": "4032",
+        "supportInfo": false,
+        "buttons": {
+            "button": [
+                {
+                    "text": "OK",
+                    "cmd": {
+                        "name": ""
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": "4033",
+        "supportInfo": false,
+        "buttons": {
+            "button": [
+                {
+                    "text": "OK",
+                    "cmd": {
+                        "name": ""
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": "4034",
+        "supportInfo": false,
+        "buttons": {
+            "button": [
+                {
+                    "text": "OK",
+                    "cmd": {
+                        "name": ""
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": "4035",
+        "supportInfo": false,
+        "buttons": {
+            "button": [
+                {
+                    "text": "OK",
+                    "cmd": {
+                        "name": ""
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": "4036",
+        "supportInfo": false,
+        "buttons": {
+            "button": [
+                {
+                    "text": "OK",
+                    "cmd": {
+                        "name": ""
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": "4037",
+        "supportInfo": false,
+        "buttons": {
+            "button": [
+                {
+                    "text": "OK",
+                    "cmd": {
+                        "name": ""
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": "4038",
+        "supportInfo": false,
+        "buttons": {
+            "button": [
+                {
+                    "text": "OK",
+                    "cmd": {
+                        "name": ""
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": "4039",
+        "supportInfo": false,
+        "buttons": {
+            "button": [
+                {
+                    "text": "OK",
+                    "cmd": {
+                        "name": ""
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": "4040",
+        "supportInfo": false,
+        "buttons": {
+            "button": [
+                {
+                    "text": "OK",
+                    "cmd": {
+                        "name": ""
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": "4042",
+        "supportInfo": false,
+        "buttons": {
+            "button": [
+                {
+                    "text": "OK",
+                    "cmd": {
+                        "name": ""
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": "4054",
+        "supportInfo": false,
+        "buttons": {
+            "button": [
+                {
+                    "text": "OK",
+                    "cmd": {
+                        "name": "closeGame"
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": "4061",
+        "supportInfo": false,
+        "buttons": {
+             "button": [
+                 {
+                     "text": "OK",
+                     "cmd": {
+                         "name": "closeGame"
+                     }
+                 }
+             ]
+        }
+    },
+    {
+        "id": "4063",
+        "supportInfo": false,
+        "buttons": {
+          "button": [
+            {
+              "text": "OK",
+              "cmd": {
+                "name": "closeGame"
+              }
+            }
+          ]
+        }
+    }
+,
+    {
+        "id": "4065",
+        "supportInfo": false,
+        "buttons": {
+            "button": [
+                {
+                    "text": "OK",
+                    "cmd": {
+                        "name": "closeGame"
+                    }
+                }
+            ]
+        }
+    }
+,
+    {
+        "id": "4066",
+        "supportInfo": false,
+        "buttons": {
+            "button": [
+                {
+                    "text": "OK",
+                    "cmd": {
+                        "name": "closeGame"
+                    }
+                }
+            ]
+        }
+    }
+    ,{
+    "id": "1015",
+    "supportInfo": false,
+    "buttons": {
+        "button": [
+            {
+                "text": "OK",
+                "cmd": {
+                    "name": "closeGame"
+                }
+            }
+        ]
+    }
+},
+    {
+        "id": "1606",
+        "supportInfo": false,
+        "buttons": {
+            "button": [
+                {
+                    "text": "OK",
+                    "cmd": {
+                        "name": "reloadGame"
+                    }
+                }
+            ]
+        }
+    }
+,
+    {
+        "id": "1610",
+        "supportInfo": false,
+        "buttons": {
+            "button": [
+                {
+                    "text": "Close",
+                    "cmd": {
+                        "name": "closeGame"
+                    }
+                },
+                {
+                    "text": "Continue",
+                    "cmd": {
+                        "name": ""
+                    }
+                },
+                {
+                    "text": "Reload",
+                    "cmd": {
+                        "name": "reloadGame"
+                    }
+                },{
+                    "text": "View Account History",
+                    "cmd": {
+                        "name": "viewAccountHistory"
+                    }
+                }
+            ]
+        }
+    }
+]
